@@ -71,3 +71,9 @@ body {
     50% { border-color: #00ff00; }
   }
   
+  .log-entry {
+    margin: 10px 0;
+    border-bottom: 1px solid #00ff00;
+    padding-bottom: 5px;
+  }
+  

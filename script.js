@@ -28,7 +28,7 @@ const asciiLogo = `
 
 const introSequence = async () => {
   await print("[INIT] System initialization...");
-  await print("[FW  ] Loading dynamic firewall rules");
+  await print("[FW] Loading dynamic firewall rules");
   await print("[NET] Secure hub connection - Established");
   await print("[SEC] Encryption modules loading - OK");
   await print("Enter session ID:");
